@@ -18,3 +18,10 @@ Example: Based on initial feedback Java is the most prevalent language in use wi
 **Describe alternatives you've considered**
 A clear and concise description of alternatives considered.
 Example: Use of C# and NodeJS have been considered however during surveying Java was found to be the most prevalent.
+
+**Proposed Resolution**
+Propose a resolution of the hypothesis.
+Example: Initial assets from the CDS Engineering team will be produced using the Java language.
+
+
+
