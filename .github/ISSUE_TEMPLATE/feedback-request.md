@@ -15,12 +15,8 @@ Example: Using Java as the first delivery item is acceptable.
 A clear and concise description of the hypothesis.
 Example: Based on initial feedback Java is the most prevalent language in use within implementing organisations. In addition Java is a language where engineering resources are readily available. On this basis the project will develop it's core assets in Java and focus on delivering assets for use by industry in Java first.
 
-**Describe alternatives you've considered**
-A clear and concise description of alternatives considered.
-Example: Use of C# and NodeJS have been considered however during surveying Java was found to be the most prevalent.
-
-**Proposed Resolution**
-Propose a resolution of the hypothesis.
+**Available Options**
+Present a list of considered options with an optional indication of what is currently preferred
 Example: Initial assets from the CDS Engineering team will be produced using the Java language.
 
 
